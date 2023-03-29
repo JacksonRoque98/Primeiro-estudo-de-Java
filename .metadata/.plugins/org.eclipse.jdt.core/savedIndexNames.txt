@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\jacks\OneDrive\Área de Trabalho\Estudos\.metadata\.plugins\org.eclipse.jdt.core
+1781437844.index
+3846929110.index
+1865797976.index
